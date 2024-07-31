@@ -30,23 +30,23 @@ brew install livekit-cli
 ./create_room_by_lkcli.sh
 ```
 
-### list rooms
+### List rooms
 
 ```bash
 ./list_rooms_by_lkcli.sh
 ```
 
-### delete a room
+### Delete a room
 
 ```bash
 ./delete_room_by_lkcli.sh
 ```
 
 
-### Join a room
+### Join a room and publish default demo
 
 ```bash
-./join_room_by_lkcli.sh
+./join_room_and_publish_demo_by_lkcli.sh
 ```
 
 ## Using python sdk

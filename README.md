@@ -24,6 +24,25 @@ brew install livekit-cli
 ./create_token_by_lkcli.sh
 ```
 
+### Create a room
+
+```bash
+./create_room_by_lkcli.sh
+```
+
+### list rooms
+
+```bash
+./list_rooms_by_lkcli.sh
+```
+
+### delete a room
+
+```bash
+./delete_room_by_lkcli.sh
+```
+
+
 ### Join a room
 
 ```bash

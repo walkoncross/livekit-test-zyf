@@ -1,0 +1,7 @@
+{
+    "input_type": 0,
+    "name": "my-ingress",
+    "room_name": "my-room",
+    "participant_identity": "ingress-bot",
+    "participant_name": "ingress-bot"
+}
